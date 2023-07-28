@@ -12,25 +12,6 @@
 
 <img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
 
- ## ⭐ Popular Repositories
-
-| 🎓 Courses | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
-|:--------|:--------------------|
-| ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
-| 📝  Articles | [Data Science Guide](https://github.com/myarist/Data-Science-Guide) · [Data Science Learning Path](https://github.com/myarist/Data-Science-Learning-Path) | 
-
-## 📃 Latest Articles
-
-<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
-
-<!-- BLOG-POST-LIST:START -->
-- [SPSS | Latest Statistical Analysis Software ?](https://www.belajarstatistik.com/blog/2022/12/29/spss-latest-statistical-analysis-software/)
-- [Apa itu Big Data?](https://www.belajarstatistik.com/blog/2022/12/22/apa-itu-definisi-big-data/)
-- [Pemrograman Berbasis Web : Pengenalan HTTP](https://www.belajarstatistik.com/blog/2022/05/25/pengenalan-http/)
-- [Pemrograman Berbasis Web : Dasar-dasar Internet](https://www.belajarstatistik.com/blog/2022/05/24/dasar-dasar-internet/)
-- [Basis Data : Model Relasional dan Pemodelan Relasi Entitas](https://www.belajarstatistik.com/blog/2022/05/23/model-relasional-dan-pemodelan-relasi-entitas/)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🔍 You Can Find Me at
 
 <p>
